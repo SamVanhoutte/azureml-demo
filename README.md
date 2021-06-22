@@ -1,2 +1,3 @@
-# azureml-demo
-Source code of my presentation on implementing MLOps with Azure ML
+# ML Ops with Azure Machine Learning
+
+This repo contains all demo code and the presentation for my MLOps talk
