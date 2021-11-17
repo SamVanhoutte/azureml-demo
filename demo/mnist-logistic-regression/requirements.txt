@@ -1,6 +1,7 @@
 pip==20.3.1
 arcus-azureml>=1.1.2.2a2020061514
 arcus-ml>=1.0.11.1
+azureml-defaults>=1.0.45
 opencv-python==3.3.0.9
 azureml-telemetry
 azureml-widgets
